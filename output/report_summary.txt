@@ -1,0 +1,33 @@
+Mini-Project 1 - Automated KPI Summary
+===========================================
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Overall Profit Margin: 12.47%
+Average Shipping Duration: 3.96 days
+Total Orders: 5,009
+Total Customers: 793
+
+Best Region by Profit: West
+Worst Region by Profit: Central
+Best Segment by Profit: Consumer
+
+Top 5 Sub-Categories by Sales:
+- Phones: $330,007.05
+- Chairs: $328,449.10
+- Storage: $223,843.61
+- Tables: $206,965.53
+- Binders: $203,412.73
+
+Top 5 Sub-Categories by Profit:
+- Copiers: $55,617.82
+- Phones: $44,515.73
+- Accessories: $41,936.64
+- Paper: $34,053.57
+- Binders: $30,221.76
+
+Bottom 5 Sub-Categories by Profit:
+- Tables: $-17,725.48
+- Bookcases: $-3,472.56
+- Supplies: $-1,189.10
+- Fasteners: $949.52
+- Machines: $3,384.76
